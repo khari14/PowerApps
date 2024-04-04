@@ -1,4 +1,4 @@
-// Register on Load of the Form, pass execution context as first parameter
+// Register on Load of the Form, pass execution parameter
 
 function onLoad(executionContext)
 {
